@@ -1,0 +1,2 @@
+# JavaScript
+Laborator 6
